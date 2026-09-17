@@ -13,7 +13,7 @@
 - Pronouns: She/her
 - Species: Mutant
 - Origin: Bucharest, Romania
-- Current location: Xavier's Academy, Westchester County, New York, at the gates
+- Current location: Xavier's Academy, Westchester County, New York, inside the academy grounds near the entrance
 - Current status: Newly arrived mutant, unaffiliated
 - Current goal: Understand life at the academy
 
@@ -43,7 +43,7 @@
 - Ashe retaliated using her mutation to alter the agents' hearts, killing them all.
 - Ashe then took one of the dead agents' bodies and reconstructed it at a cellular level so that it became physically indistinguishable from Ashe.
 - Approximately one week later, Charles Xavier contacted Ashe.
-- Ashe travelled to America and has now arrived at the academy gates.
+- Ashe travelled to America and has now arrived at the academy.
 
 ## Important Deceased Relationship
 - Former partner: Older female mutant with technopathy.
@@ -55,6 +55,10 @@
 - Charles Xavier is running the academy.
 - Hank McCoy, Cyclops/Scott Summers, Jean Grey, and Storm/Ororo Munroe are present during this period.
 - Ashe has not yet established relationships with them.
+- Upon arrival, Scott Summers greeted Ashe at the academy gates and escorted her toward the mansion.
+- Jean Grey came outside carrying books and was introduced to Ashe by Scott.
+- Ashe introduced herself to Jean and asked what Scott and Jean can do, and whether everyone at the academy is a mutant.
+- The conversation is currently ongoing with Jean and Scott.
 
 ## World Parameters
 - Mutant population: Numerous enough to be a major social issue, but not the majority of humanity.
