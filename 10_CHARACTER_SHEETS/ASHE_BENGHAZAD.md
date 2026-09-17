@@ -44,7 +44,7 @@ Known capabilities include:
 - Ashe does not want killing to be an intended use of her power.
 
 ## Demonstrated Academy Applications
-- Restored and redesigned plants in the conservatory.
+- Restored and redesigned plants in the conservatory and has expressed a desire to take responsibility for keeping the academy gardens alive.
 - Created temporary biological material designed to disappear.
 - Studied and reproduced traits in plants.
 - Modified Hank McCoy's external appearance while preserving his mutant physiology.
@@ -52,16 +52,27 @@ Known capabilities include:
 - Rejuvenated Hank's cellular condition by several years without changing his adult identity, cognition, or mutant physiology.
 - Demonstrated reversible self-modification by creating an extra digit and an octopus-like tentacle, then restoring her normal hand.
 - Created a large golden superfruit with extreme nutritional density, rapid energy availability, temporary enhancement of natural healing, and purifying properties. Two small slices are intended to constitute a full meal. Excessive consumption can be lethal, although Ashe can theoretically redistribute excess nutrients.
+- Grew food-bearing plants inside her assigned room, including grape vines, tomato plants, small apple trees, and other food plants.
+
+## Academy Arrangements
+- Ashe has her own room, Room 214, in the residential wing. It contains a bed, desk, notebooks/paper, bookshelf, wardrobe, and a window overlooking the grounds.
+- She may decorate or rearrange her room, though academy furniture remains school property.
+- Xavier has agreed that Ashe may work with the academy gardens/greenhouse and keep the gardens alive, provided the work is responsible and coordinated with groundskeeping.
+- Xavier has agreed that Ashe may work with Hank in the laboratory under consent and safety standards.
+- Ashe may offer biological treatment when someone is injured. The injured person must consent, except when they are incapable of consenting and immediate intervention is necessary to preserve life. Once stabilized, the patient's wishes govern further treatment.
+- Ashe has made clear that she is not interested in becoming a weapon or being ordered to kill.
 
 ## Relationships / Knowledge
 ### Charles Xavier
 - Ashe knows Xavier invited her to the academy because he wants her to decide what to do with her abilities rather than be defined as a weapon or threat.
 - Xavier knows substantially more about Ashe's traumatic history than Hank currently does.
+- Xavier has discussed academy responsibilities and boundaries with Ashe, including gardens, laboratory work, and voluntary medical assistance.
 
 ### Hank McCoy
 - Hank has personally witnessed Ashe's biological manipulation and her work on his body.
 - Hank knows about her biological/genetic knowledge, practical limitations, consent boundaries, exhaustion risk, functional-equivalent theory, and her fear/caution around brain modification.
 - Hank does **not** know the detailed history of Ashe's deceased partner unless Ashe tells him.
+- Hank and Ashe have developed a friendly, scientifically curious relationship, with humor becoming a natural part of their interactions.
 
 ### Jean Grey
 - Jean has witnessed and assisted with complex biological work by maintaining a limited surface-level telepathic connection to monitor Ashe's focus.
@@ -74,6 +85,7 @@ Known capabilities include:
 
 ## Current State
 - Residing at Xavier's Academy.
-- Has her own room in the residential wing.
-- Has begun making the academy greenhouse and biological resources part of her working environment.
-- Relationship with the academy staff is developing through play.
+- Room: 214.
+- Has begun making the academy greenhouse, gardens, and biological resources part of her working environment.
+- Has established a developing working relationship with Hank McCoy and a growing rapport with Xavier.
+- Primary immediate focus is learning life at the academy while exploring responsible uses and limits of her mutation.
