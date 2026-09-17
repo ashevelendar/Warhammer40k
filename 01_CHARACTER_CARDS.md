@@ -1,56 +1,42 @@
 # Character Card: Ashe Ben'Ghazad
 
+> **Canonical detailed character record:** `10_CHARACTER_SHEETS/ASHE_BENGHAZAD.md`
+>
+> This file is retained as the original character-card location. The detailed sheet is the authoritative source for current identity, abilities, history, and knowledge boundaries.
+
 ## Identity
 - Name: Ashe Ben'Ghazad
 - Age: 21
+- Sex: Female
 - Species: Mutant
 - Origin: Bucharest, Romania
 - Current location: Xavier's Academy, Westchester County, New York
 
-## History
-Ashe's mutation manifested when he was very young. His parents never understood what his power was or how to help him with it. At 16, Ashe left home and wandered through Romania.
+## Core Continuity
+- Ashe is the player character.
+- Never write Ashe's dialogue, thoughts, decisions, intentions, or actions unless explicitly supplied by the player.
+- Ashe's deceased partner/mentor was an older female mutant technopath. She is not currently named in the established record.
+- Charles Xavier knows substantially more about Ashe's past than Hank McCoy currently does.
+- Do not transfer one character's private knowledge to another character without an in-world reason.
 
-He eventually met an older female mutant with technopathy. She became his partner and mentor, teaching him how to use his mutation and, more importantly, how to think about it. They lived together for several years.
+## Mutation
+Ashe can perceive and manipulate living biology at extraordinary depth, directing cells toward desired biological states. Her precision depends strongly on knowledge and understanding, while complexity and resource requirements affect difficulty and exhaustion.
 
-The pair were eventually found by the Mutant Response Division (MRD). Agents attempted to take them into custody and shot Ashe's partner, killing her. Ashe retaliated by using his mutation to alter the agents' hearts, killing all of them.
+Known demonstrated applications include healing, plant creation and redesign, deliberate self-modification, complex alteration of Hank McCoy while preserving his mutant physiology, cellular rejuvenation, and creation of highly nutritious biological food.
 
-Ashe then took one of the dead agents' bodies and reconstructed it at a cellular level, making it physically indistinguishable from Ashe himself.
+Brain modification remains theoretical and untested by Ashe.
 
-Approximately one week later, Charles Xavier contacted Ashe. Ashe travelled to America and arrived at Xavier's academy.
+## Boundaries
+- No modification of humans without consent.
+- No intended killing.
+- Ashe does not want mutant abilities removed or fundamentally suppressed.
+- Complex experimentation should be consensual and safe.
 
-## Current Situation
-- Newly arrived at the academy gates.
-- Unaffiliated with the X-Men or any other known faction.
-- Wants to understand life at the academy.
-- Has not yet established relationships with the students or staff.
+## Relationship Knowledge
+- Xavier: Knows the detailed account Ashe has given him about her past and trauma.
+- Hank: Knows what he has personally witnessed and what Ashe has told him. He does not know the detailed history of her partner.
+- Jean: Knows what she has personally witnessed or been told; her telepathic assistance with Ashe was explicitly surface-level and consent-based.
+- Scott: Knows Ashe from their meeting at the academy gates and his own direct experiences.
 
-## Mutation: Overhaul-Type Matter Reconstruction
-- Ashe can disassemble and reconstruct matter through physical contact.
-- His mutation can affect nonliving matter and living tissue.
-- Demonstrated biological manipulation includes altering a living target's internal anatomy lethally.
-- Ashe can reconstruct bodies at cellular level.
-- Ashe has demonstrated the ability to reconstruct a corpse into a body indistinguishable from himself at the cellular level.
-- Ashe can modify his own body.
-- The full limits, costs, range, precision, vulnerabilities, and undiscovered applications remain unknown and must be established through play.
-
-## Attributes
-- Strength: 11/20
-- Charisma: 10/20
-- Constitution: 13/20
-- Intelligence: 15/20
-- Dexterity: 12/20
-- Reconstruction: 18/20
-
-## Personality / Character Development
-To be established through play. Do not dictate Ashe's thoughts, dialogue, beliefs, or decisions.
-
-## Relationships
-- Former partner: Deceased older female mutant technopath and mentor. Identity and wider history remain to be established.
-- Charles Xavier: Has contacted Ashe and invited/accepted him to the academy. Relationship to be established through play.
-- Hank McCoy: No established relationship yet.
-- Scott Summers: No established relationship yet.
-- Jean Grey: No established relationship yet.
-- Ororo Munroe: No established relationship yet.
-
-## Player Dialogue Rule
-Never write dialogue for Ashe during conversations. Never decide what Ashe says, thinks, chooses, or does unless the player explicitly provides the action. During conversations, present the other character's words and relevant reactions, then leave space for the player to respond.
+## Continuity Warning
+Older material elsewhere in the repository may describe Ashe with incorrect pronouns, an incorrect interpretation of her mutation, or outdated relationship states. The current timeline, X-Men session addendum, continuity guardrails, and detailed character sheets take precedence.
